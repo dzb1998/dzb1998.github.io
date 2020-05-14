@@ -1,5 +1,5 @@
 ---
-title: Computational Analysis of French Reborrowing Process for English Loanwords"
+title: Computational Analysis of French Reborrowing Process for English Loanwords
 collection: publications
 permalink: /publications/loanwords
 date: 2019-11-21
