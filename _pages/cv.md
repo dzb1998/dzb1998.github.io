@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zhubo Deng"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zhubodeng.github.io/files/Zhubo_Deng_resume_.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics of Computation, University of California, Los Angeles, 2020
+* B.A. in Linguistics and Computer Science, University of California, Los Angeles, 2020
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -35,14 +36,14 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
