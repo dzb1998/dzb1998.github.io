@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zhubodeng.github.io/files/Zhubo_Deng_resume_.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zhubodeng.github.io/files/cv.pdf)
 
 Education
 ======
@@ -43,7 +43,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
   
 <!-- Talks
 ======
